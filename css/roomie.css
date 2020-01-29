@@ -1,0 +1,26 @@
+h1 {
+    font-family: Impact, Arial, sans-serif;
+    font-size: 36px;
+    color: #424F5A;
+}
+.w3-bar {
+    width: 100%;
+    overflow: hidden
+}
+
+.w3-bar .w3-bar-item {
+    padding: 8px 16px;
+    float: left;
+    background-color: inherit;
+    color: inherit;
+    width: auto;
+    border: none;
+    outline: none;
+    display: block
+}
+
+.w3-black,
+.w3-hover-black:hover {
+    color: #fff !important;
+    background-color: #000 !important
+}
